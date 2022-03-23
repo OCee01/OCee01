@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @OCee01
-- 👀 I’m interested in becoming a professional frontend developer 
-- 🌱 I’m currently learning html & css
-- 💞️ I’m looking to collaborate on any project 
+
 
 
 <!---
